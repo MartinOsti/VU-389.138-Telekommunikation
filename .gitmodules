@@ -1,6 +1,7 @@
-[submodule "cld"]
-	path = cld
-	url = https://github.com/Painkilla/VU-389.138-Telekommunikation-cld.git
 [submodule "conf"]
 	path = conf
 	url = https://github.com/Painkilla/conf.git
+[submodule "cld"]
+	path = cld
+	url = https://github.com/Painkilla/VU-389.138-Telekommunikation-cld.git
+
