@@ -1,3 +1,5 @@
+./conf
+./cld
 *.aux
 *.backup
 *.bbl

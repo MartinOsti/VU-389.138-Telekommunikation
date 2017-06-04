@@ -1,1 +1,1 @@
-/home/painkilla/projects/LVA/./conf/Makefile
+./conf/Makefile

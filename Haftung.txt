@@ -1,1 +1,1 @@
-/home/painkilla/projects/LVA/./conf/Haftung.txt
+./conf/Haftung.txt
